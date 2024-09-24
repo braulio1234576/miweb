@@ -81,7 +81,7 @@ Escribe texto normal y separa los párrafos con una línea en blanco.
 
 
 ### Enlace a otro documento
-[Acceder al documento](Documentación.md)
+[Acceder al documento](Documentacion)
 
 
 ### 5.¿Cómo se puede visualizar y convertir un archivo escrito en Markdown a otros formatos, como HTML o PDF? 
