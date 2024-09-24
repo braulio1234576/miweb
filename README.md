@@ -70,11 +70,15 @@ Escribe texto normal y separa los párrafos con una línea en blanco.
 1. Primer ítem numerado
 2. Segundo ítem numerado
 
-### Tabla
-| Encabezado 1 | Encabezado 2 |
-|--------------|--------------|
-| Celda 1      | Celda 2      |
-| Celda 3      | Celda 4      |
+
+### Mi Tabla:
+
+```markdown
+| Encabezado 1     | Encabezado 2     |
+|-------------------|-------------------|
+| Celda 1           | Celda 2           |
+| Celda 3           | Celda 4           |
+
 
 ### Enlace a otro documento
 [Acceder al documento](Documentación.md)
