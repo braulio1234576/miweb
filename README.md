@@ -73,11 +73,11 @@ Escribe texto normal y separa los párrafos con una línea en blanco.
 
 ### Mi Tabla:
 
-```markdown
-| Encabezado 1     | Encabezado 2     |
-|-------------------|-------------------|
-| Celda 1           | Celda 2           |
-| Celda 3           | Celda 4           |
+| Nombre     | Edad | Ciudad       |
+|------------|------|--------------|
+| Juan       | 25   | Madrid       |
+| María      | 30   | Barcelona    |
+| Pedro      | 22   | Valencia     |
 
 
 ### Enlace a otro documento
