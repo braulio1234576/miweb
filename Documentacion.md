@@ -1,5 +1,5 @@
 # Documentación del Proyecto
 
 **Miembros del grupo:**
-- Miembro 1
-- Miembro 2
+- Braulio Herrera Villar
+- Esteban Oliver Rodriguez Ferrera
